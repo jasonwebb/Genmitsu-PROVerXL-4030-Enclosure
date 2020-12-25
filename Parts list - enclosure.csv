@@ -1,0 +1,25 @@
+Sub-assembly,Part,Purpose,Qty,Price ea.,Sub-total,Source,URL,Note
+Frame,"30mm aluminum extrusion - 35.375""",Width rails,4,$7.63,$30.52,T-Nutz,https://www.tnutz.com/product/exm-3030/?attribute_pa_length-in=35&attribute_pa_fractional-length=0-375-3-8,Opt for M8 x 1.25 x 30mm taps on both ends
+,"30mm aluminum extrusion - 29.375""",Height rails,4,$6.58,$26.32,T-Nutz,https://www.tnutz.com/product/exm-3030/?attribute_pa_length-in=29&attribute_pa_fractional-length=0-375-3-8,Opt for M8 x 1.25 x 30mm taps on both ends
+,"30mm aluminum extrusion - 29.375""",Depth rails,4,$6.58,$26.32,T-Nutz,https://www.tnutz.com/product/exm-3030/?attribute_pa_length-in=29&attribute_pa_fractional-length=0-375-3-8,Opt for M8 x 1.25 x 30mm taps on both ends
+,3-way corner connector with bolts,Frame corners,8,$4.25,$34.00,T-Nutz,https://www.tnutz.com/product/cbc-030-3d/,
+,"Rubber tape (19/32"" W x 5/16"" H x 10' L)",Isolates frame from table surface,1,$7.96,$7.96,Menard's,https://www.menards.com/main/hardware/weather-stripping/19-32-x-5-16-x-10-rubber-auto-marine-weather-strip/52021/p-1459185067252-c-3624.htm,
+Door,"30mm aluminum extrusion - 35.375""",Top and bottom rails,2,$7.63,$15.26,T-Nutz,https://www.tnutz.com/product/exm-3030/?attribute_pa_length-in=35&attribute_pa_fractional-length=0-375-3-8,Opt for M8 x 1.25 x 30mm taps on both ends
+,"30mm aluminum extrusion - 29.375""",Left and right rails,2,$6.58,$13.16,T-Nutz,https://www.tnutz.com/product/exm-3030/?attribute_pa_length-in=29&attribute_pa_fractional-length=0-375-3-8,Opt for M8 x 1.25 x 30mm taps on both ends
+,2-way corner connector with bolts,Door corners,4,$4.25,$17.00,T-Nutz,https://www.tnutz.com/product/cbc-030-2d/,
+,Steel black powder-coated heavy-duty hinge kit,Hinges,2,$8.25,$16.50,T-Nutz,https://www.tnutz.com/product/hi-015/,Opt for the (4) M6 x 16mm screws and drop-in T-nuts
+,Black plastic handle with hardware (medium size),Handle,1,$3.43,$3.43,T-Nutz,https://www.tnutz.com/product/han-015/,
+Sliding base,"Aluminum extrusion - 29.375""",Mounts for drawer slides,2,$6.58,$13.16,T-Nutz,https://www.tnutz.com/product/exm-3030/?attribute_pa_length-in=29&attribute_pa_fractional-length=0-375-3-8,Opt for M8 x 1.25 x 30mm taps on both ends
+,"26"", 70lb capacity slides (pair)",Drawer slides,1,$23.00,$23.00,McMaster-Carr,https://www.mcmaster.com/catalog/11435A29,"Two slots on each slide need to be manually enlarged with 1/2"" drill bit to fit the flanged button head mounting screws"
+,"Rubber tape (19/32"" W x 5/16"" H x 10' L)",Seals between rails,1,$7.96,$7.96,Menard's,https://www.menards.com/main/hardware/weather-stripping/19-32-x-5-16-x-10-rubber-auto-marine-weather-strip/52021/p-1459185067252-c-3624.htm,
+,"M6 x 8mm flanged button head screws (25pk, only 12 needed)",Mounts drawer slides to mount rails,1,$7.70,$7.70,McMaster-Carr,https://www.mcmaster.com/catalog/92137A523,
+,M6 T-nut for 30mm rail with spring-ball,Mounts drawer slides to mount rails,12,$0.50,$6.00,T-Nutz,https://www.tnutz.com/product/db-015/?attribute_pa_thread-size=m6-x-1-0,
+,"#8 x 2-1/2"" wafer head cabinet screws",Connects sliding wood platform to drawer slides,1,$8.38,$8.38,Menard's,https://www.menards.com/main/hardware/fasteners-connectors/screws/cabinet-screws/spax-reg-8-x-2-1-2-t-star-plus-drive-yellow-zinc-wafer-head-cabinet-screw-1-lb-box/4281020400604/p-1447285978715-c-1528204231372.htm?tid=-2857134759774546403&ipos=3,
+,15 Series 5 hole 90 degree joining plate,Connects the drawer slide mount rails to the height rails,4,$5.00,$20.00,T-Nutz,https://www.tnutz.com/product/jp-015-h/,"Opt for 5/16-18 x 5/8"" screws with double and triple economy T-nuts"
+,Latches,Firmly closes door and compresses inner door seal,,,$0.00,,,
+Panels,"30x36 x 0.220"" acrylic sheet (4pk)","Back, top, and side panels",1,$189.75,$189.75,HD Supply,https://hdsupplysolutions.com/p/acrylic-sheets-00-145-5/plaskolite-30x36-acrylic-sheet-package-of-4-p737606,"Cut ~6mm off each corner to fit into corner brackets. Cut side panels down to 28.5x30"""
+,"30x36 x 0.220"" acrylic sheet",Door panel,1,$65.98,$65.98,Menard's,https://www.menards.com/main/doors-windows-millwork/acrylic-glass-sheets/amerilux-0-220-thick-clear-acrylic-sheets/cla18x24x220/doors-windows-millwork/acrylic-glass-sheets/amerilux-0-220-thick-clear-acrylic-sheets/cla30x36x220/p-1539107081194.htm,Cut ~6mm off each corner to fit into corner brackets.
+,"Economy panel gasket - 17m (53ft) (10x30in, 6x36in)",Wedges between acrylic panels and aluminum extrusion rails to hold in place and reduce vibrations.,17,$1.75,$29.75,8020,https://8020.net/40-2115.html,
+,"T-slot inline bulb seal - 11ft (2x30in, 2x36in)",Inner door seals,2,$8.56,$17.12,McMaster-Carr,https://www.mcmaster.com/catalog/47065T814,
+,,,,,,,,
+,,,,Total,$579.27,,,

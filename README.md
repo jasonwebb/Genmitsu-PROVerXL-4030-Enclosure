@@ -32,6 +32,15 @@ All designs and drawings made with version 2.0.9052.
 
 <img src="Renders/Opened enclosure.jpg" alt="Annotated drawing of enclosure with front door swung open and sliding base extended.">
 
+## Photos
+
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="Photos/Front angled view.jpg"></td>
+    <td><img src="Photos/Side view.jpg"></td>
+  </tr>
+</table>
+
 ## Drawings
 
 ### Outer dimensions

@@ -1,5 +1,5 @@
-# Genmitsu-PROVerXL-4030-Enclosure
-BOM and CAD files for a DIY aluminum extrusion enclosure with a slide-out drawer for the 4030 CNC router.
+# Genmitsu PROVerXL 4030 Enclosure
+Parts lists and CAD files for a DIY aluminum extrusion enclosure with a slide-out drawer for the 4030 CNC router.
 
 ## Parts lists:
 
@@ -25,6 +25,16 @@ All designs and drawings made with version 2.0.9052.
 1. Be very careful when attaching the inner drawer slide tracks to the sliding MDF base! Pre-drill the holes using the tracks as a template. Make sure the tracks are aligned correctly so they match the slides on the frame. Drill and screw them as close as possible to the center of the board to minimize risk of delaminating the board later. Use either MDF or particle board - layered plywood may separate.
 
 1. Use a 2-3/8" hole saw to drill a hole for the furniture grommet on the table surface near the back of the enclosure. Make absolutely sure that you're not drilling into the diagonal 2x4 crossbeam!
+
+## Things to improve later
+
+1. The bottom of the enclosure is left open, which can increase the noise level you hear outside the enclosure. Try putting some foam under the sliding base to block some of this.
+
+1. Dust collection could be added by installing a vacuum on the bottom shelf and routing a hose up into the enclosure through the table surface.
+
+1. The front door seal is a bit thick and requires significant pressure to compress enough for good sound reduction. Might be worth trying out different approaches for sealing.
+
+1. I have not yet figured out a good way to add latches for closing and sealing the front door. For now I'm just using wood clamps.
 
 ## Renders
 
